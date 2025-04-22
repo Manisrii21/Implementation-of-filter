@@ -123,31 +123,31 @@ plt.show()
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
+![Screenshot 2025-04-22 212644](https://github.com/user-attachments/assets/9354886f-9ef1-48b3-8b80-68a7346758ad)
 
-![avg](https://github.com/user-attachments/assets/370b90cd-ad72-4b5e-b19c-bd0c8504735f)
 
 ii)Using Weighted Averaging Filter
+![Screenshot 2025-04-22 212654](https://github.com/user-attachments/assets/ebf84ece-a44f-4c50-ba2f-8eddccbed873)
 
-![w avg](https://github.com/user-attachments/assets/b27a186a-c3b4-4891-bb58-b2cb40bcbf9e)
 
 iii)Using Gaussian Filter
+![Screenshot 2025-04-22 212701](https://github.com/user-attachments/assets/00d727d9-0c50-46c6-a2db-857415eb1599)
 
-![gaussian blur](https://github.com/user-attachments/assets/e16df755-ffbd-49b2-bfbd-c66d000cfc66)
 
 iv) Using Median Filter
+![Screenshot 2025-04-22 212709](https://github.com/user-attachments/assets/97568d10-7975-449c-8301-24f3dcd28f5c)
 
-![median blur](https://github.com/user-attachments/assets/e84e6a9a-6ea3-4b98-8ccc-f4a8abd3c81a)
 
 
 ### 2. Sharpening Filters
 
 i) Using Laplacian Kernal
+![Screenshot 2025-04-22 212723](https://github.com/user-attachments/assets/48df8bfa-d07a-4125-bf11-72861167828c)
 
-![laplacian](https://github.com/user-attachments/assets/182e6d5b-fdf5-49d0-9891-66b699168a87)
 
 ii) Using Laplacian Operator
+![Screenshot 2025-04-22 212732](https://github.com/user-attachments/assets/4e6393df-40f9-4c9a-a577-7cf7558affda)
 
-![laplacian operator](https://github.com/user-attachments/assets/51710989-3f1f-4bfd-9d8a-3bcdcb3090ef)
 
 
 ## Result:
